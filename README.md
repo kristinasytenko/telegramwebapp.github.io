@@ -1,2 +1,4 @@
-# 
-https://github.com/kristinasytenko/telegramwebapp.github.io
+## Available Scripts
+
+### `npm run server`
+### `npm start`
